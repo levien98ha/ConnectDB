@@ -1,0 +1,4 @@
+MSNV,Họ tên,Email,Ngày sinh,Địa chỉ,Số điện thoại,Lương
+102132,Nguyễn Viễn,viennl@vnext.com.vn,1970-01-01,Quảng Nam,0345920978,2000000
+102160,Nguyen Le Vien,nlv@vnext.com.vn,1998-07-09,Quang Nam,0345920977,10000000
+102162,Nguyen Van B,nvb@vnex.com.vn,1970-01-01,Quang Tri,0345920988,3000000
